@@ -13,7 +13,7 @@ class Content extends React.Component {
           iPhone. It does not get uploaded to the cloud, nor do we have an
           access to the data.{" "}
         </p>
-        <h2>Personal data we do not collect</h2>
+        <h2>Personal details we do not collect</h2>
         <p>
           Even though the app asks you to provide the data mentioned below, we
           never use them. The whole app logic is processed on your iPhone.
@@ -43,7 +43,7 @@ class Content extends React.Component {
           us:
         </p>
         <ul>
-          <li>By email: pension-app@tsukinode.com</li>
+          <li>By email: jp-pension-app@tsukinode.com</li>
         </ul>
       </div>
     );
