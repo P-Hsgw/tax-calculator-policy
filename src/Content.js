@@ -11,7 +11,7 @@ class Content extends React.Component {
         <p>
           Information used in our app is stored and encrypted securely on your
           iPhone. It does not get uploaded to the cloud, nor do we have an
-          access to the data.{" "}
+          access to the data.
         </p>
         <h2>Personal details we do not collect</h2>
         <p>
@@ -26,7 +26,7 @@ class Content extends React.Component {
           <li>Years of pension contribution</li>
           <li>Salary and bonus</li>
         </ul>
-        <h2>We will never change our approach to Privacy.</h2>
+        <h2>We will never change our approach to Privacy</h2>
         <p>
           The app is paid, that's why we have the freedom to not collect any of
           the user's data. We will never change this approach, the app, once
