@@ -7,7 +7,7 @@ class Content extends React.Component {
       <div className="wrapper">
         <h1>Privacy Policy</h1>
         <p>Last updated: April 10, 2022</p>
-        <h2>We do not collect any personal details.</h2>
+        <h2>We do not collect any personal details</h2>
         <p>
           Information used in our app is stored and encrypted securely on your
           iPhone. It does not get uploaded to the cloud, nor do we have an
